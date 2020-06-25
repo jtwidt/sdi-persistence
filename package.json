@@ -1,0 +1,24 @@
+{
+  "name": "sdi-persistence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtwidt/sdi-persistence.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtwidt/sdi-persistence/issues"
+  },
+  "homepage": "https://github.com/jtwidt/sdi-persistence#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg-promise": "^10.5.7"
+  }
+}
