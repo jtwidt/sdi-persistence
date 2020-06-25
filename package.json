@@ -19,6 +19,6 @@
   "homepage": "https://github.com/jtwidt/sdi-persistence#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "pg-promise": "^10.5.7"
+    "pg": "^8.2.1"
   }
 }
